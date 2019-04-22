@@ -1,0 +1,12 @@
+Shurak 19
+3
+IT 5
+CEO 3
+Maths 3
+Ivanov 22
+2
+Bio 2
+Maths 5
+Fyodorov 20
+1
+Bio 5
